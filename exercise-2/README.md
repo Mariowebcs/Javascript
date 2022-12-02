@@ -1,8 +1,3 @@
-# Exercise Closures
+# Conditionals & Loops - Exercise 4
 
-Starting from the previous exercise, are you able to print the value of `helloName`, after 1 second?
-
-Tips:
-
-- The method that you need to solve the exercise is: `setTimeout`
-- You can learn more about the topic checking this article: https://www.freecodecamp.org/news/closures-in-javascript/
+Create the function `nicknameMap` using the for loop, which takes in an array of people and returns a `nicknames` array. The nickname must be composed as follows: `<name>-<age>`.
