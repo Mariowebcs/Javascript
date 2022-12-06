@@ -8,7 +8,7 @@ function uncompletedNotes(notes) {
       }
     })
   });
-  return this.uncompleteEl;
+  return this.uncompleted;
 }
 
 
