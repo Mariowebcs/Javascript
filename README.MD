@@ -1,4 +1,0 @@
-JAVASCRIPT EXERCISE.
-
-Develhope Student : MARIO D'ANDREA.
-
